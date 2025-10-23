@@ -5,11 +5,11 @@
 [submodule "genlogis"]
 	path = genlogis
 	url = https://github.com/pinduzera/genlogis
-[submodule "r-sasctl"]
-	path = r-sasctl
+[submodule "sasctl"]
+	path = sasctl
 	url = https://github.com/sassoftware/r-sasctl
-[submodule "r-swat"]
-	path = r-swat
+[submodule "swat"]
+	path = swat
 	url = https://github.com/sassoftware/R-swat
 [submodule "turkey"]
 	path = turkey
