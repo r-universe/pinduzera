@@ -1,0 +1,10 @@
+{
+  "id": 91325120,
+  "created_at": "2025-10-23T20:30:18.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["genlogis", "tuRkey", "pindas-test.r-universe.dev", "pinduzera.r-universe.dev"]
+}
