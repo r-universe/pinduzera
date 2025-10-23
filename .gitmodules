@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pinduzera/pinduzera.r-universe.dev
 	branch = HEAD
 [submodule "genlogis"]
 	path = genlogis
 	url = https://github.com/pinduzera/genlogis
+[submodule "r-sasctl"]
+	path = r-sasctl
+	url = https://github.com/sassoftware/r-sasctl
+[submodule "r-swat"]
+	path = r-swat
+	url = https://github.com/sassoftware/R-swat
+[submodule "turkey"]
+	path = turkey
+	url = https://github.com/pinduzera/turkey
