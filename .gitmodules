@@ -10,7 +10,7 @@
 	url = https://github.com/sassoftware/r-sasctl
 [submodule "swat"]
 	path = swat
-	url = https://github.com/sassoftware/R-swat
+	url = https://github.com/pinduzera/R-swat-universe
 [submodule "turkey"]
 	path = turkey
 	url = https://github.com/pinduzera/turkey
