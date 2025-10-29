@@ -11,6 +11,6 @@
 [submodule "swat"]
 	path = swat
 	url = https://github.com/pinduzera/R-swat-universe
-[submodule "turkey"]
-	path = turkey
+[submodule "tuRkey"]
+	path = tuRkey
 	url = https://github.com/pinduzera/turkey
